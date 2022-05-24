@@ -1,3 +1,3 @@
 # ipython-animation-with-matplotlib
 
-[movie](grad_desc_1.mov)
+[movie](grad_desc_1.gif)
